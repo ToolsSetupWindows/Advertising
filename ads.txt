@@ -1,7 +1,6 @@
 <div style="font-family:Segoe UI, Arial; padding:16px; line-height:1.45">
-  <h2 style="margin:0 0 8px;color:#0d47a1;">Khuyến mãi dịch vụ cài đặt & tối ưu Windows</h2>
-  <p>- Giảm <b>30%</b> cho khách mới • Tặng gói dọn rác & tinh chỉnh khởi động.</p>
-  <p>Liên hệ: <a href="mailto:hntd.tech@gmail.com">hntd.tech@gmail.com</a> • Zalo: 09xx.xxx.xxx</p>
-  <hr style="border:0;border-top:1px solid #e5e7eb;margin:14px 0;">
-  <p style="font-size:12px;color:#6b7280;">Quảng cáo hiển thị khi máy có Internet. Bạn có thể đóng cửa sổ này.</p>
+  <h2 style="margin:0 0 8px;color:#0d47a1;">Khuyến mãi mở thẻ tín dụng online duyệt nhanh</h2>
+  <p><a href="https://shorten.asia/cayUx5pr">
+  <img src="https://raw.githubusercontent.com/ToolsSetupWindows/Images/main/vib-the-tin-dung.jpg" alt="Mô tả hình ảnh">
+</a></p>
 </div>
