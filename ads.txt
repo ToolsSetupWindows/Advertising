@@ -1,8 +1,9 @@
 <div style="font-family:Segoe UI, Arial; padding:12px; line-height:1">
   <h2 style="margin:0 0 2px;color:#0d47a1;">Mở thẻ tín dung VIB Online</h2>
   <p><a href="https://shorten.asia/cayUx5pr">
-  <img src="https://raw.githubusercontent.com/ToolsSetupWindows/Images/main/vib-the-tin-dung.jpg" alt="Mô tả hình ảnh" width="520" height="200">
+  <img src="https://raw.githubusercontent.com/ToolsSetupWindows/Images/main/vib-the-tin-dung.jpg" alt="Mô tả hình ảnh" width="530" height="230">
 </a></p>
 </div>
+
 
 
