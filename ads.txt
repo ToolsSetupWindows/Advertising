@@ -2,7 +2,6 @@
   <h3 style="margin:0 0 2px;color:#0d47a1;"><center>MỞ THẺ TÍN DỤNG VIB ONLINE HẠN MỨC CAO</center></h3>
   <br/>
 <a href="https://shorten.asia/cayUx5pr">
-  <img src="https://raw.githubusercontent.com/ToolsSetupWindows/Images/main/vib-the-tin-dung.jpg" alt="Mô tả hình ảnh" width="570" height="268">
+  <img src="https://raw.githubusercontent.com/ToolsSetupWindows/Images/main/vib-the-tin-dung.jpg" alt="Mô tả hình ảnh" width="565" height="260">
 </a>
 </div>
-
